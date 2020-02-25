@@ -56,6 +56,6 @@ h4 {
 }
 
 img {
-  border-style: solid;
-  border-spacing: 1px;
+  border: solid 1px;
+
 }
